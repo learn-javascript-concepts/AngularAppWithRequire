@@ -1,7 +1,7 @@
 {
-    "name": "AngularIntegrationWithNode",
-    "version": "0.0",
-    "description": "Integrate Node with sinple Angular Application",
+    "name": "AngularIntegrationWithRequire",
+    "version": "0.0.0",
+    "description": "Integrate Node with simple Angular Application and Require",
     "main": "server.js",
     "author": {
         "name": "Mayank Gupta",
